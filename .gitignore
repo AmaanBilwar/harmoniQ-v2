@@ -1,0 +1,7 @@
+.env
+Lib/
+Scripts/
+share/
+Include/
+etc/
+pyvencv.cfg
